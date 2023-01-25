@@ -12,6 +12,7 @@
 | [![](./assets/css_selectors_8.png)](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors) | <p align="center"><strong>a\[x=y\]</strong><br /><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors">Attribute selector</a></p> | Select all a elements that have the x attribute set to y. |
 | [![](./assets/css_selectors_9.png)](https://developer.mozilla.org/en-US/docs/Web/CSS/ID_selectors) | <p align="center"><strong>#id1</strong><br /><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/ID_selectors">ID selector</a></p> | Select the element with the id1 ID name. |
 | [![](./assets/css_selectors_10.png)](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors) | <p align="center"><strong>*</strong><br /><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors">Universal selector</a></p> | Select all elements. |
+| [![](./assets/css_selectors_10.png)](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors#selector_lists) | <p align="center"><strong>a, b, c</strong><br /><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors">Selectors list</a></p> | Select elements that match any of the listed selectors. |
 
 | High Resolution | Grayscale Print |
 | --------------- | --------------- |
